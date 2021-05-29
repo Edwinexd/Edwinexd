@@ -1,4 +1,13 @@
-### Hi there 👋
+<p align="center"><h1 align="center">Edwin Sundberg</h1></p>
+
+I'm Edwin. Backend developer from Sweden who is passionate about making programs to make **your** day just a bit better and learning new technologies. I'm currently working on the [Ilnox Discord Bot](https://ilnox.com/). Feel free to reach out to me via [email](mailto:edwin@edthing.com) and I'll try to respond as soon as I can. 
+
+
+<div align="center">
+  <a href="https://github.com/Edwinexd/">
+    <img src="https://github-readme-stats.vercel.app/api?username=Edwinexd&theme=default &include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&count_private=true" />
+  </a>
+</div>
 
 <!--
 **Edwinexd/Edwinexd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
