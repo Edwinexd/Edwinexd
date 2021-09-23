@@ -1,6 +1,6 @@
-<p align="center"><h1 align="center">Edwin Sundberg</h1></p>
+<p align="center"><h1 align="center">Edwin</h1></p>
 
-I'm Edwin. Backend developer from Sweden who is passionate about making programs to make **your** day just a bit better and learning new technologies. I'm currently working on the [Ilnox Discord Bot](https://ilnox.com/). Feel free to reach out to me via [email](mailto:edwin@edthing.com) and I'll try to respond as soon as I can. 
+Hey there👋 I'm Edwin, a software developer from Sweden who's passionate about making programs to make **your** day just a bit better and learning new technologies🚀 I'm currently working on the [Ilnox Discord Bot](https://ilnox.com/). Feel free to reach out to me via [email](mailto:edwin@edthing.com), and I'll try to respond as soon as I can. 
 
 
 <div align="center">
