@@ -1,6 +1,6 @@
 <p align="center"><h1 align="center">Edwin</h1></p>
 
-Hey there👋 I'm Edwin, a software developer from Sweden primarly studying computer science at Stockholm University 📖 I'm currently working on [Booking Manager - A campaign management tool for grocery stores](https://edthing.com/). Feel free to reach out to me via [email](mailto:edwin@edthing.com), and I'll try to respond as soon as I can. 
+Hey there👋 I'm Edwin, a software developer from Sweden primarly studying computer science at Stockholm University 📖 I'm currently working on [Booking Manager - A campaign management tool for grocery stores](https://bm.edthing.com/) and [Qgito](https://github.com/Qgit0/). Feel free to reach out to me via [email](mailto:edwin@edthing.com), and I'll try to respond as soon as I can. 
 
 
 <div align="center">
