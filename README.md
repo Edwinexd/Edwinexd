@@ -10,7 +10,7 @@ I'm currently working on [REST Lens - Enterprise API Quality Assurance](https://
 
 Feel free to reach out to me via email, and I'll try to respond as soon as I can:
 
-- **Stockholm University:** [edwin.sundberg@dsv.su.se](mailto:edwin.sundberg@dsv.su.se)
+- **Stockholm University:** [edwinsu@dsv.su.se](mailto:edwinsu@dsv.su.se)
 - **Personal:** [edwin@edthing.com](mailto:edwin@edthing.com)  
 - **E.SU IT AB:** [edwin@e-su.se](mailto:edwin@e-su.se)
 
