@@ -12,7 +12,7 @@ Feel free to reach out to me via email, and I'll try to respond as soon as I can
 
 - **Stockholm University:** [edwinsu@dsv.su.se](mailto:edwinsu@dsv.su.se)
 - **Personal:** [edwin@edthing.com](mailto:edwin@edthing.com)  
-- **E.SU IT AB:** [edwin@e-su.se](mailto:edwin@e-su.se)
+- **E.SU. IT AB:** [edwin@e-su.se](mailto:edwin@e-su.se)
 
 <div align="center">
   
